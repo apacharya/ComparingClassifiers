@@ -1,10 +1,13 @@
 # Comparing Classifiers
 
-## **Objective: Predict if a Customer will subscribe to term deposit leveraging a Bank Markering campaign data.**
+## **Objective: 
+Predict if a Customer will subscribe to term deposit leveraging a Bank Markering campaign data.**
 
-## **Overview**: In this project, my goal is to compare the performance of the classifiers such as K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines.  I am utilizing the dataset related to bank marketing over the telephone. ROI is to reduce marketing costs by leveraging the primary drivers of subscription and targetting the campaign better.
+## **Overview**: 
+In this project, my goal is to compare the performance of the classifiers such as K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines.  I am utilizing the dataset related to bank marketing over the telephone. ROI is to reduce marketing costs by leveraging the primary drivers of subscription and targetting the campaign better.
 
-## **Data Overview**: The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
+## **Data Overview**: 
+The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
 Dataset contains 20 features and 1 target variable.
 
 Our dataset comes from the UCI Machine Learning repository [link](https://archive.ics.uci.edu/ml/datasets/bank+marketing).  The data is from a Portugese banking institution and is a collection of the results of multiple marketing campaigns. This article accompanying the dataset [here](CRISP-DM-BANK.pdf) for more information on the data and features.
