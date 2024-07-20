@@ -1,18 +1,19 @@
 # Comparing Classifiers
 
-## **Objective: 
+## Objective: 
 Predict if a Customer will subscribe to term deposit leveraging a Bank Markering campaign data.**
 
-## **Overview**: 
+## Overview: 
 In this project, my goal is to compare the performance of the classifiers such as K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines.  I am utilizing the dataset related to bank marketing over the telephone. ROI is to reduce marketing costs by leveraging the primary drivers of subscription and targetting the campaign better.
 
-## **Data Overview**: 
+## Data Overview: 
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
 Dataset contains 20 features and 1 target variable.
 
 Our dataset comes from the UCI Machine Learning repository [link](https://archive.ics.uci.edu/ml/datasets/bank+marketing).  The data is from a Portugese banking institution and is a collection of the results of multiple marketing campaigns. This article accompanying the dataset [here](CRISP-DM-BANK.pdf) for more information on the data and features.
 
-### **Features**
+### Features
+
 Input variables:
 #### bank client data:
 1 - age (numeric)
@@ -43,7 +44,7 @@ Output variable (desired target):
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
 
 
-## **Algorithms Used for Analysis and Skills displayed**
+## Algorithms Used for Analysis and Skills displayed
 
 - Explorative Analysis using matplotlib, seaborn
 - Modeling using Classifiers - K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines
@@ -51,7 +52,7 @@ Output variable (desired target):
 - Model Explanation 
 
 
-## **Conclusion**
+## Conclusion
 
 I ran several models to predict the target of whether a customer will subscribe to term deposit or not. Logistic Regressor was the fastest to train and SVM was the slowest.
 
