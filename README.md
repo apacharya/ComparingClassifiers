@@ -1,4 +1,4 @@
-# ComparingClassifiers
+# Comparing Classifiers
 
 **Objective: Predict if a Customer will subscribe to term deposit leveraging a Bank Markering campaign data.**
 
